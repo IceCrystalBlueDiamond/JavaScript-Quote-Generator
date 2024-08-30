@@ -1,1 +1,1 @@
-#JavaScript Quote Generator.#
+# JavaScript Quote Generator.
